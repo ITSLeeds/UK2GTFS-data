@@ -48,3 +48,12 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 data/raw/atco_areas.geojson
+data/clean/naptan_replace.rda
+data/clean/atco_areas.rda
+data/clean/atoc_agency.rda
+data/clean/naptan_missing.rda
+data/clean/historic_bank_holidays.rda
+data/clean/rail_heavy.rda
+data/clean/rail_light.rda
+data/clean/tiplocs.rda
+data/clean/all.zip

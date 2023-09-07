@@ -1,5 +1,7 @@
 # Convert to rda
 
+dir.create("data/clean")
+
 fls = list.files("data/raw")
 fls = fls[grepl(".",fls, fixed = TRUE)]
 
@@ -19,9 +21,11 @@ for(i in seq_along(fls)){
     stop("Unknown type")
   }
 
-  save(sub, file = file.path("data/clean",paste0(nm,".rda")))
+  assign( nm, sub )
 
+  save( list=nm, file = file.path("data/clean",paste0(nm,".rda")))
 }
+
 
 # Zip for release
 

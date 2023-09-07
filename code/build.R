@@ -21,9 +21,22 @@ for(i in seq_along(fls)){
     stop("Unknown type")
   }
 
-  assign( nm, sub )
 
-  save( list=nm, file = file.path("data/clean",paste0(nm,".rda")))
+
+  if(file.exists(file.path("data/clean",paste0(nm,".rda")))){
+    file.remove(file.path("data/clean",paste0(nm,".rda")))
+  }
+
+  if(fl == "tiplocs.csv"){
+    sub = sub[!is.na(sub$stop_lon),]
+    sub = sf::st_as_sf(sub, coords = c("stop_lon","stop_lat"), crs = 4326)
+  }
+
+  assign(nm, sub)
+  rm(sub)
+
+  save(list = nm, file = file.path("data/clean",paste0(nm,".rda")))
+
 }
 
 

@@ -1,74 +1,70 @@
-"agency_id","agency_name","agency_url","agency_timezone","agency_lang","agency_phone"
-"AR","Alliance Rail","http://www.alliancerail.co.uk/","Europe/London","en","0000 000 000"
-"AW","Arriva Trains Wales","http://www.arrivatrainswales.co.uk/","Europe/London","en","0845 6061660"
-"CC","c2c","http://www.c2c-online.co.uk/","Europe/London","en","0845 6014873"
-"CH","Chiltern Railways","http://www.chilternrailways.co.uk/","Europe/London","en","08456 005 165"
-"CS","Serco Caledonian Sleeper","http://www.sleeper.scot/","Europe/London","en","0330 060 0500"
-"EM","East Midlands Trains","http://www.eastmidlandstrains.co.uk/","Europe/London","en","08457 125 678"
-"ES","Eurostar","https://en.wikipedia.org/wiki/Eurostar","Europe/London","en","0000 000 000"
-"EU","Virtual European Paths","https://www.URLMISSING.com","Europe/London","en","0000 000 000"
-"FC","First Capital Connect","https://en.wikipedia.org/wiki/First_Capital_Connect","Europe/London","en","0000 000 000"
-"GC","Grand Central","http://www.grandcentralrail.co.uk/","Europe/London","en","0845 6034852"
-"GN","Great Northern","http://www.greatnorthernrail.com/","Europe/London","en","0345 026 4700"
-"GR","East Coast","http://www.eastcoast.co.uk/","Europe/London","en","08457 225 225"
-"GW","First Great Western","http://www.firstgreatwestern.co.uk/","Europe/London","en","08457 000 125"
-"GX","Gatwick Express","http://www.gatwickexpress.com/","Europe/London","en","0845 850 15 30"
-"HB","London North Eastern Railway","https://en.wikipedia.org/wiki/London_North_Eastern_Railway","Europe/London","en","0000 000 000"
-"HC","Heathrow Connect","http://www.heathrowconnect.com/","Europe/London","en","0845 678 6975"
-"HT","First Hull Trains","http://www.hulltrains.co.uk/","Europe/London","en","08456 769 905"
-"HX","Heathrow Express","http://www.heathrowexpress.com/","Europe/London","en","020 8750 6600"
-"IL","Island Line","http://www.southwesttrains.co.uk/","Europe/London","en","01983 812 591"
-"LD","East Coast Trains","https://www.firstgroupplc.com/about-firstgroup/uk-rail/eastcoast.aspx","Europe/London","en","01224 650100"
-"LE","Abellio Greater Anglia","http://www.abelliogreateranglia.co.uk/","Europe/London","en","0845 600 7245"
-"LF","Grand Union Trains","http://www.granduniontrains.co.uk/","Europe/London","en","0000 000 000"
-"LM","London Midland","http://www.londonmidland.com/","Europe/London","en","0121 634 2040"
-"LO","London Overground","http://www.tfl.gov.uk/overground","Europe/London","en","0845 601 4867"
-"LR","Network Rail (On-Track Machines)","https://www.URLMISSING.com","Europe/London","en","0000 000 000"
-"LS","Locomotive Services","https://en.wikipedia.org/wiki/Locomotive_Services_Limited","Europe/London","en","0000 000 000"
-"LT","London Underground","http://tube.tfl.gov.uk/","Europe/London","en","020 7222 5600"
-"ME","Merseyrail","http://www.merseyrail.org/","Europe/London","en","0151 702 2071"
-"MV","Varamis Rail","https://www.varamis.co.uk/","Europe/London","en","0000 000 0000"
-"NT","Northern Rail","http://www.northernrail.org/","Europe/London","en","0845 00 00 125"
-"NY","North Yorkshire Moors Railway","https://en.wikipedia.org/wiki/North_Yorkshire_Moors_Railway ","Europe/London","en","0000 000 000"
-"QA","Network Rail Head Quarters/Wrong TSC","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QB","Network Rail Sussex Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QC","Network Rail Wessex Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QD","Network Rail Western Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QE","Network Rail Midlands Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QF","Network Rail North West Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QG","Network Rail London North East Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QH","Network Rail Anglia Zone","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QJ","Network Rail Virtual Freight Co","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QK","Network Rail East Coast Main Line","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QL","Network Rail Scotland","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QM","Network Rail Kent","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QN","Network Rail Property","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QO","Network Rail External Customer","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QP","Network Rail Major Projects","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QQ","Network Rail Midland & Continental (HS1)","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QR","Network Rail London North West","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QS","Network Rail Ex RSSB","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QT","Network Rail South East Assets Territory","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QU","Network Rail Information Systems","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QV","Network Rail Midland & Continental (East Midlands)","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QW","Network Rail Wales","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QY","Network Rail UK Private Infrastructure","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"QZ","Network Rail Non UK","https://www.networkrail.co.uk/","Europe/London","en","0207 557 8000"
-"SE","Southeastern","http://www.southeasternrailway.co.uk/","Europe/London","en","0845 000 2222"
-"SJ","South Yorkshire Supertram","https://en.wikipedia.org/wiki/Sheffield_Supertram","Europe/London","en","0000 000 000"
-"SN","Southern","http://www.southernrailway.com/","Europe/London","en","08451 27 29 20"
-"SO","SLC Operations","https://www.slcoperations.com/","Europe/London","en","0000 000 000"
-"SP","Swanage Railway","https://en.wikipedia.org/wiki/Swanage_Railway","Europe/London","en","0000 000 000"
-"SR","ScotRail","http://www.scotrail.co.uk/","Europe/London","en","08700 005151"
-"SW","South West Trains","http://www.southwesttrains.co.uk/","Europe/London","en","08700 00 5151"
-"TL","Thameslink","http://www.thameslinkrailway.com/","Europe/London","en","0345 026 4700"
-"TP","First TransPennine Express","http://www.tpexpress.co.uk/","Europe/London","en","0845 600 1671"
-"TW","Nexus (Tyne & Wear Metro)","http://www.nexus.org.uk/metro","Europe/London","en","0191 20 20 747"
-"TY","Vintage Trains","https://en.wikipedia.org/wiki/Vintage_Trains","Europe/London","en","0000 000 000"
-"VT","Avanti West Coast","https://en.wikipedia.org/wiki/Avanti_West_Coast","Europe/London","en","0845 000 8000"
-"WR","West Coast Railways","https://en.wikipedia.org/wiki/West_Coast_Railways","Europe/London","en","0000 000 000"
-"WS","Wrexham and Shropshire","https://en.wikipedia.org/wiki/Wrexham_%26_Shropshire","Europe/London","en","0000 000 000"
-"XC","CrossCountry","http://www.crosscountrytrains.co.uk/","Europe/London","en","08447 369 123"
-"XR","TfL Rail","https://tfl.gov.uk/modes/tfl-rail/","Europe/London","en","0343 222 1234"
-"YG","Hanson & Hall Rail Services","https://www.hansonhallrail.co.uk/","Europe/London","en","01332 631 760"
-"ZZ","-freight-obfuscated-","https://www.networkrail.co.uk/","Europe/London","en","0000 000 0000"
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+AR,Alliance Rail,http://www.alliancerail.co.uk/,Europe/London,en,0000 000 000
+AW,Transport for Wales,http://www.nationalrail.co.uk/tocs_maps/tocs/AW.aspx,Europe/London,en,0000 000 000
+CC,c2c,http://www.nationalrail.co.uk/tocs_maps/tocs/CC.aspx,Europe/London,en,0000 000 000
+CH,Chiltern Railways,http://www.nationalrail.co.uk/tocs_maps/tocs/CH.aspx,Europe/London,en,0000 000 000
+CS,Caledonian Sleeper,http://www.nationalrail.co.uk/tocs_maps/tocs/CS.aspx,Europe/London,en,0000 000 000
+EM,East Midlands Railway,http://www.nationalrail.co.uk/tocs_maps/tocs/EM.aspx,Europe/London,en,0000 000 000
+ES,Eurostar,http://www.nationalrail.co.uk/tocs_maps/tocs/ES.aspx,Europe/London,en,0000 000 000
+EU,Virtual European Paths,https://www.URLMISSING.com,Europe/London,en,0000 000 000
+FC,First Capital Connect,https://en.wikipedia.org/wiki/First_Capital_Connect,Europe/London,en,0000 000 000
+GC,Grand Central,http://www.nationalrail.co.uk/tocs_maps/tocs/GC.aspx,Europe/London,en,0000 000 000
+GN,Great Northern,http://www.nationalrail.co.uk/tocs_maps/tocs/GN.aspx,Europe/London,en,0000 000 000
+GR,London North Eastern Railway,http://www.nationalrail.co.uk/tocs_maps/tocs/GR.aspx,Europe/London,en,0000 000 000
+GW,Great Western Railway,http://www.nationalrail.co.uk/tocs_maps/tocs/GW.aspx,Europe/London,en,0000 000 000
+GX,Gatwick Express,http://www.nationalrail.co.uk/tocs_maps/tocs/GX.aspx,Europe/London,en,0000 000 000
+HC,Heathrow Connect,http://www.nationalrail.co.uk/tocs_maps/tocs/HC.aspx,Europe/London,en,0000 000 000
+HT,Hull Trains,http://www.nationalrail.co.uk/tocs_maps/tocs/HT.aspx,Europe/London,en,0000 000 000
+HX,Heathrow Express,http://www.nationalrail.co.uk/tocs_maps/tocs/HX.aspx,Europe/London,en,0000 000 000
+IL,Island Line,http://www.nationalrail.co.uk/tocs_maps/tocs/IL.aspx,Europe/London,en,0000 000 000
+LD,Lumo,http://www.nationalrail.co.uk/tocs_maps/tocs/LD.aspx,Europe/London,en,0000 000 000
+LE,Greater Anglia,http://www.nationalrail.co.uk/tocs_maps/tocs/LE.aspx,Europe/London,en,0000 000 000
+LF,Grand Union Trains,http://www.granduniontrains.co.uk/,Europe/London,en,0000 000 000
+LM,West Midlands Trains,http://www.nationalrail.co.uk/tocs_maps/tocs/LM.aspx,Europe/London,en,0000 000 000
+LO,London Overground,http://www.nationalrail.co.uk/tocs_maps/tocs/LO.aspx,Europe/London,en,0000 000 000
+LR,Network Rail (On-Track Machines),https://www.URLMISSING.com,Europe/London,en,0000 000 000
+LS,Locomotive Services,https://en.wikipedia.org/wiki/Locomotive_Services_Limited,Europe/London,en,0000 000 000
+LT,London Underground,http://www.nationalrail.co.uk/tocs_maps/tocs/LT.aspx,Europe/London,en,0000 000 000
+ME,Merseyrail,http://www.nationalrail.co.uk/tocs_maps/tocs/ME.aspx,Europe/London,en,0000 000 000
+NT,Northern,http://www.nationalrail.co.uk/tocs_maps/tocs/NT.aspx,Europe/London,en,0000 000 000
+NY,North Yorkshire Moors Railway,https://en.wikipedia.org/wiki/North_Yorkshire_Moors_Railway ,Europe/London,en,0000 000 000
+QA,Network Rail Head Quarters/Wrong TSC,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QB,Network Rail Sussex Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QC,Network Rail Wessex Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QD,Network Rail Western Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QE,Network Rail Midlands Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QF,Network Rail North West Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QG,Network Rail London North East Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QH,Network Rail Anglia Zone,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QJ,Network Rail Virtual Freight Co,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QK,Network Rail East Coast Main Line,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QL,Network Rail Scotland,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QM,Network Rail Kent,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QN,Network Rail Property,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QO,Network Rail External Customer,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QP,Network Rail Major Projects,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QQ,Network Rail Midland & Continental (HS1),https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QR,Network Rail London North West,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QS,Network Rail Ex RSSB,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QT,Network Rail South East Assets Territory,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QU,Network Rail Information Systems,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QV,Network Rail Midland & Continental (East Midlands),https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QW,Network Rail Wales,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QY,Network Rail UK Private Infrastructure,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+QZ,Network Rail Non UK,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
+SE,Southeastern,http://www.nationalrail.co.uk/tocs_maps/tocs/SE.aspx,Europe/London,en,0000 000 000
+SJ,Sheffield Supertram,http://www.nationalrail.co.uk/tocs_maps/tocs/SJ.aspx,Europe/London,en,0000 000 000
+SN,Southern,http://www.nationalrail.co.uk/tocs_maps/tocs/SN.aspx,Europe/London,en,0000 000 000
+SO,SLC Operations,https://www.slcoperations.com/,Europe/London,en,0000 000 000
+SP,Swanage Railway,https://en.wikipedia.org/wiki/Swanage_Railway,Europe/London,en,0000 000 000
+SR,ScotRail,http://www.nationalrail.co.uk/tocs_maps/tocs/SR.aspx,Europe/London,en,0000 000 000
+SW,South Western Railway,http://www.nationalrail.co.uk/tocs_maps/tocs/SW.aspx,Europe/London,en,0000 000 000
+TL,Thameslink,http://www.nationalrail.co.uk/tocs_maps/tocs/TL.aspx,Europe/London,en,0000 000 000
+TP,TransPennine Express,http://www.nationalrail.co.uk/tocs_maps/tocs/TP.aspx,Europe/London,en,0000 000 000
+TW,Tyne & Wear Metro,http://www.nationalrail.co.uk/tocs_maps/tocs/TW.aspx,Europe/London,en,0000 000 000
+TY,Vintage Trains,https://en.wikipedia.org/wiki/Vintage_Trains,Europe/London,en,0000 000 000
+VT,Avanti West Coast,http://www.nationalrail.co.uk/tocs_maps/tocs/VT.aspx,Europe/London,en,0000 000 000
+WR,West Coast Railways,https://en.wikipedia.org/wiki/West_Coast_Railways,Europe/London,en,0000 000 000
+XC,CrossCountry,http://www.nationalrail.co.uk/tocs_maps/tocs/XC.aspx,Europe/London,en,0000 000 000
+XR,TfL Rail,http://www.nationalrail.co.uk/tocs_maps/tocs/XR.aspx,Europe/London,en,0000 000 000
+ZZ,-freight-obfuscated-,https://www.networkrail.co.uk/,Europe/London,en,0000 000 000
